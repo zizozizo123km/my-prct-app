@@ -1,0 +1,1 @@
+export default function Home() { return <div><h1>Welcome to my-prct-app</h1></div>; }
